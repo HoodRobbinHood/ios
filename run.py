@@ -2,9 +2,9 @@
 import ffmpeg
 import os
 
-input_path = '2.mp4'
-output_with_audio = '2_with_audio.mp4'
-output_no_audio = '2_no_audio.mp4'
+input_path = 'fizio_sr.mp4'
+output_with_audio = 'fizio_with_audio.mp4'
+output_no_audio = 'fizio_no_audio.mp4'
 
 try:
     # Версия с аудио для десктопа
